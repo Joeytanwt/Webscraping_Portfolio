@@ -1,5 +1,5 @@
 # Web Scraping Portfolio
-This portfolio showcases Python-based web scraping projects, demonstrating techniques to extract and process data from different types of websites. Each project focuses on a unique challenge, such as table extraction, pagination handling, and data storage.
+This portfolio showcases Python-based web scraping projects, demonstrating techniques to extract and process data from different types of websites.
 
 ## Project 1
 Scraping a table from a static webpage
